@@ -1,0 +1,6 @@
+
+include LICENSE
+
+include tap_anaplan/schemas/*.json
+
+include tap_anaplan/streams/*.py
