@@ -29,9 +29,8 @@ Source config file
             "models": ["Faaa","xxxx,"bbb"],
 
             "filenames": ["xxxxx","bbbbb","ccccc"]
-
-       }
-       Based on the source config details data are extracted from the Anaplan api
+         }
+    Based on the source config details data are extracted from the Anaplan api
  
 ## Run the Tap
     tap-anaplan.py -c config.json | target-stitch -c target_config.json
