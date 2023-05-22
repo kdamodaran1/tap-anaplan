@@ -22,7 +22,7 @@ setup(
 
     install_requires=[
 
-        'requests==2.20.0',
+        'requests==2.31.0',
 
         'singer-python==5.6.0',
 
